@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este README oferece uma visão geral dos tópicos abordados no curso de Python do "Curso em Vídeo". O curso é projetado para ensinar Python desde o básico até conceitos mais avançados, fornecendo uma base sólida para desenvolvedores e entusiastas da programação.
+Este README oferece uma visão geral dos tópicos abordados no curso de Python do "Curso em Vídeo". O curso é projetado para ensinar Python desde o básico até conceitos mais avançados, fornecendo uma base sólida para desenvolvedores e estudantes.
 
 ## Conteúdo do Curso
 
@@ -50,14 +50,11 @@ Este README oferece uma visão geral dos tópicos abordados no curso de Python d
 - **Bibliotecas Externas**: Introdução ao uso de bibliotecas externas como `requests`, `numpy`, e `pandas`.
 - **Frameworks**: Conceito básico de frameworks como Flask e Django para desenvolvimento web.
 
-### 10. Projeto Final
-- **Desenvolvimento de Projeto**: Aplicação dos conceitos aprendidos em um projeto final.
-- **Boas Práticas**: Recomendações para estruturação de código e boas práticas de programação.
-
 ## Recursos Adicionais
 - **Documentação Oficial**: Links para a documentação oficial do Python e de bibliotecas relevantes.
 - **Comunidade e Suporte**: Dicas para se envolver com a comunidade Python e buscar suporte quando necessário.
+- **Boas Práticas**: Recomendações para estruturação de código e boas práticas de programação.
 
 ## Conclusão
 
-Este curso oferece uma base sólida para o desenvolvimento com Python, cobrindo desde conceitos básicos até técnicas mais avançadas. A prática contínua e a construção de projetos são recomendadas para consolidar o conhecimento adquirido.
+Este curso oferece uma base sólida para o desenvolvimento com Python, cobrindo desde conceitos básicos até técnicas mais avançadas, no qual desafie-me e conclui o curso com mais de 90% do curso de Pyhton.
